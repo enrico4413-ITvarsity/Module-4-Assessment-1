@@ -1,0 +1,41 @@
+body{
+    width:100%;
+    background-color:white;
+    margin:0;
+    padding:0;
+}
+
+h1{
+    text-align:center;
+    font-family:helvetica sans-serif;
+    font-size:25px;
+    
+}
+
+#left-column{
+    width:60%;
+    float:left;
+    background-color:cornflowerblue;
+}
+
+.left-images{
+    margin:25px;
+}
+
+#right-column img{
+    width:450px;
+    margin-left:105px;
+    margin-top:150px;
+    
+    border:5px outset black;
+    padding:60px;
+}
+
+img#logo{
+    position:fixed;
+    width:150px;
+    bottom:20px;
+    right:10px;
+    
+    border:none;
+}
